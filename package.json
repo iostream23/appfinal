@@ -1,0 +1,22 @@
+{
+  "name": "appfinal",
+  "version": "1.0.0",
+  "description": "appFinal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iostream23/appfinal.git"
+  },
+  "author": "kingasatur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iostream23/appfinal/issues"
+  },
+  "homepage": "https://github.com/iostream23/appfinal#readme",
+  "dependencies": {
+    "mssql": "^6.1.0"
+  }
+}
